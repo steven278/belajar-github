@@ -1,6 +1,6 @@
 WPU resolusi
-- Konsisten untuk membuat konten sebanyak 2x seminggu
+- Belajar Python3
 - Membuat platform untuk pengelolaan video
-- Membuat forum diskusi 
+ 
 - Kolaborasi dengan lebih banyak expert
 - Membuat vlog
